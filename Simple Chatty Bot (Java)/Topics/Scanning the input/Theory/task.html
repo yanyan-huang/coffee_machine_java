@@ -11,13 +11,21 @@
 <p>The simplest way to obtain data from the standard input is to use the standard class <strong><code class="language-java">Scanner</code></strong>. It allows a program to read values of different types (string, numbers, etc) from the standard input. In this topic, we will consider reading data from the input.</p>
 <p>To use this class you should add the following import statement to the top of your file with the source code.</p>
 <pre><code class="language-java">import java.util.Scanner;</code></pre>
-<p>Then you add the following construction after the import:</p>
-<pre><code class="language-java">Scanner scanner = new Scanner(System.in);</code></pre>
-<p>With this line, we create an object of <code class="language-java">Scanner</code> class, that enables us to use its methods. We will learn more about creating objects in other topics. <code class="language-java">System.in</code> indicates that the program will read text that you type in the standard input. For now, you will always require this line exactly.</p>
+<p>After the import, you add a class with the following construction:</p>
+<pre><code class="language-java">public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+    }
+}</code></pre>
+<p>In the <code class="language-java">main</code> method, we create an object of <code class="language-java">Scanner</code> class, that enables us to use its methods. We will learn more about creating objects in other topics. <code class="language-java">System.in</code> indicates that the program will read text that you type in the standard input. For now, you will always require this line exactly.</p>
 <p>There are two ways to read strings with a <code class="language-java">Scanner</code> class. If your input is an integer number or a single word, you can read the data using the <strong><code class="language-java">next()</code> method</strong>. As an example, the following code fragment reads the user’s name and prints a <em>hello</em> message:</p>
-<pre><code class="language-java">String name = scanner.next();
-
-System.out.println("Hello, " + name + "!");</code></pre>
+<pre><code class="language-java">public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        String name = scanner.next();
+        System.out.println("Hello, " + name + "!");
+    }
+}</code></pre>
 <p>For instance, the user's name is James. The output of the program will be the following:</p>
 <pre><code class="language-no-highlight">Hello, James!</code></pre>
 <p>If the user's input is an integer number like 123, the program will output this number. Note that the <code class="language-java">next()</code> method will store 123 or another integer number as a string, even if we know that this string consists of a number.</p>

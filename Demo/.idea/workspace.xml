@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4886e5d-d6da-4338-8e7c-244596d9dd1a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo/com/example/demo/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/demo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Conditional statement/Chocolate/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Conditional statement/Chocolate/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Conditional statement/Statements/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Conditional statement/Statements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Conditional statement/The condition to travel around the world/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Conditional statement/The condition to travel around the world/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Conditional statement/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Conditional statement/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Integer types and operations/Calculate the digit/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Integer types and operations/Calculate the digit/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Integer types and operations/Desks/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Integer types and operations/Desks/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Integer types and operations/How many nuts each squirrel will get/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Integer types and operations/How many nuts each squirrel will get/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Integer types and operations/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Integer types and operations/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Relational operators/Boys in a sport class/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Relational operators/Boys in a sport class/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Relational operators/Check the value/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Relational operators/Check the value/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Relational operators/Job offer/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Relational operators/Job offer/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Relational operators/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Relational operators/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/String/Check burgs/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/String/Check burgs/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/String/Comparing strings/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/String/Comparing strings/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/String/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/String/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/The for-loop/Fizz Buzz/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/The for-loop/Fizz Buzz/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/The for-loop/From sum to product/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/The for-loop/From sum to product/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/The for-loop/Size of parts/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/The for-loop/Size of parts/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/The for-loop/Statements/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/The for-loop/Statements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/The for-loop/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/The for-loop/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/externalDependencies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/libraries/Gradle__junit_junit_4_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/libraries/Gradle__org_assertj_assertj_core_3_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/libraries/Gradle__org_assertj_assertj_swing_3_17_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_17_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Simple Tic-Tac-Toe (Java)/task/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Simple Tic-Tac-Toe (Java)/task/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Simple Tic-Tac-Toe (Java)/task/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/classes/java/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-classes-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/classes/java/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-classes-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/classes/java/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-classes-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/generated/sources/annotationProcessor/java/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-generated-sources-annotationProcessor-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/generated/sources/annotationProcessor/java/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-generated-sources-annotationProcessor-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/generated/sources/annotationProcessor/java/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-generated-sources-annotationProcessor-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/generated/sources/headers/java/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-generated-sources-headers-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/generated/sources/headers/java/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-generated-sources-headers-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/generated/sources/headers/java/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-generated-sources-headers-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/reports/tests/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-reports-tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/reports/tests/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-reports-tests.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/reports/tests/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-reports-tests.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/test-results/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-test-results.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/test-results/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-test-results.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/test-results/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-test-results.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/tmp/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-tmp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/tmp/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-tmp.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/tmp/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-tmp.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Simple_Tic-Tac-Toe_(Java).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Branching statements/Statements/Simple_Tic-Tac-Toe_(Java).Topics-Branching_statements-Statements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Branching statements/Statements/Simple_Tic-Tac-Toe_(Java).Topics-Branching_statements-Statements.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Branching statements/Statements/Simple_Tic-Tac-Toe_(Java).Topics-Branching_statements-Statements.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Branching statements/The integer barrier/Simple_Tic-Tac-Toe_(Java).Topics-Branching_statements-The_integer_barrier.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Branching statements/The integer barrier/Simple_Tic-Tac-Toe_(Java).Topics-Branching_statements-The_integer_barrier.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Branching statements/The integer barrier/Simple_Tic-Tac-Toe_(Java).Topics-Branching_statements-The_integer_barrier.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Branching statements/Theory/Simple_Tic-Tac-Toe_(Java).Topics-Branching_statements-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Branching statements/Theory/Simple_Tic-Tac-Toe_(Java).Topics-Branching_statements-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Branching statements/Theory/Simple_Tic-Tac-Toe_(Java).Topics-Branching_statements-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Branching statements/What is the output/Simple_Tic-Tac-Toe_(Java).Topics-Branching_statements-What_is_the_output.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Branching statements/What is the output/Simple_Tic-Tac-Toe_(Java).Topics-Branching_statements-What_is_the_output.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Branching statements/What is the output/Simple_Tic-Tac-Toe_(Java).Topics-Branching_statements-What_is_the_output.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Calling a method/Call me awesome/Simple_Tic-Tac-Toe_(Java).Topics-Calling_a_method-Call_me_awesome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Calling a method/Call me awesome/Simple_Tic-Tac-Toe_(Java).Topics-Calling_a_method-Call_me_awesome.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Calling a method/Call me awesome/Simple_Tic-Tac-Toe_(Java).Topics-Calling_a_method-Call_me_awesome.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Calling a method/Theory/Simple_Tic-Tac-Toe_(Java).Topics-Calling_a_method-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Calling a method/Theory/Simple_Tic-Tac-Toe_(Java).Topics-Calling_a_method-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Calling a method/Theory/Simple_Tic-Tac-Toe_(Java).Topics-Calling_a_method-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Errors in programs/Fix the program/Simple_Tic-Tac-Toe_(Java).Topics-Errors_in_programs-Fix_the_program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Errors in programs/Fix the program/Simple_Tic-Tac-Toe_(Java).Topics-Errors_in_programs-Fix_the_program.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Errors in programs/Fix the program/Simple_Tic-Tac-Toe_(Java).Topics-Errors_in_programs-Fix_the_program.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Errors in programs/Select the statement/Simple_Tic-Tac-Toe_(Java).Topics-Errors_in_programs-Select_the_statement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Errors in programs/Select the statement/Simple_Tic-Tac-Toe_(Java).Topics-Errors_in_programs-Select_the_statement.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Errors in programs/Select the statement/Simple_Tic-Tac-Toe_(Java).Topics-Errors_in_programs-Select_the_statement.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Errors in programs/Theory/Simple_Tic-Tac-Toe_(Java).Topics-Errors_in_programs-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Errors in programs/Theory/Simple_Tic-Tac-Toe_(Java).Topics-Errors_in_programs-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Errors in programs/Theory/Simple_Tic-Tac-Toe_(Java).Topics-Errors_in_programs-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Iterating over arrays/Select loops/Simple_Tic-Tac-Toe_(Java).Topics-Iterating_over_arrays-Select_loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Iterating over arrays/Select loops/Simple_Tic-Tac-Toe_(Java).Topics-Iterating_over_arrays-Select_loops.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Iterating over arrays/Select loops/Simple_Tic-Tac-Toe_(Java).Topics-Iterating_over_arrays-Select_loops.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Iterating over arrays/Select one loop/Simple_Tic-Tac-Toe_(Java).Topics-Iterating_over_arrays-Select_one_loop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Iterating over arrays/Select one loop/Simple_Tic-Tac-Toe_(Java).Topics-Iterating_over_arrays-Select_one_loop.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Iterating over arrays/Select one loop/Simple_Tic-Tac-Toe_(Java).Topics-Iterating_over_arrays-Select_one_loop.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Iterating over arrays/Sum array elements greater than a value/Simple_Tic-Tac-Toe_(Java).Topics-Iterating_over_arrays-Sum_array_elements_greater_than_a_value.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Iterating over arrays/Sum array elements greater than a value/Simple_Tic-Tac-Toe_(Java).Topics-Iterating_over_arrays-Sum_array_elements_greater_than_a_value.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Iterating over arrays/Sum array elements greater than a value/Simple_Tic-Tac-Toe_(Java).Topics-Iterating_over_arrays-Sum_array_elements_greater_than_a_value.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Iterating over arrays/Theory/Simple_Tic-Tac-Toe_(Java).Topics-Iterating_over_arrays-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Iterating over arrays/Theory/Simple_Tic-Tac-Toe_(Java).Topics-Iterating_over_arrays-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Iterating over arrays/Theory/Simple_Tic-Tac-Toe_(Java).Topics-Iterating_over_arrays-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Iterating over arrays/Two numbers never occur next to each other/Simple_Tic-Tac-Toe_(Java).Topics-Iterating_over_arrays-Two_numbers_never_occur_next_to_each_other.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Iterating over arrays/Two numbers never occur next to each other/Simple_Tic-Tac-Toe_(Java).Topics-Iterating_over_arrays-Two_numbers_never_occur_next_to_each_other.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Iterating over arrays/Two numbers never occur next to each other/Simple_Tic-Tac-Toe_(Java).Topics-Iterating_over_arrays-Two_numbers_never_occur_next_to_each_other.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Multidimensional array/Multidimensional array features/Simple_Tic-Tac-Toe_(Java).Topics-Multidimensional_array-Multidimensional_array_features.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Multidimensional array/Multidimensional array features/Simple_Tic-Tac-Toe_(Java).Topics-Multidimensional_array-Multidimensional_array_features.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Multidimensional array/Multidimensional array features/Simple_Tic-Tac-Toe_(Java).Topics-Multidimensional_array-Multidimensional_array_features.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Multidimensional array/Practical applications/Simple_Tic-Tac-Toe_(Java).Topics-Multidimensional_array-Practical_applications.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Multidimensional array/Practical applications/Simple_Tic-Tac-Toe_(Java).Topics-Multidimensional_array-Practical_applications.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Multidimensional array/Practical applications/Simple_Tic-Tac-Toe_(Java).Topics-Multidimensional_array-Practical_applications.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Multidimensional array/Symmetric matrix/Simple_Tic-Tac-Toe_(Java).Topics-Multidimensional_array-Symmetric_matrix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Multidimensional array/Symmetric matrix/Simple_Tic-Tac-Toe_(Java).Topics-Multidimensional_array-Symmetric_matrix.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Multidimensional array/Symmetric matrix/Simple_Tic-Tac-Toe_(Java).Topics-Multidimensional_array-Symmetric_matrix.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Multidimensional array/Theory/Simple_Tic-Tac-Toe_(Java).Topics-Multidimensional_array-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Multidimensional array/Theory/Simple_Tic-Tac-Toe_(Java).Topics-Multidimensional_array-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Multidimensional array/Theory/Simple_Tic-Tac-Toe_(Java).Topics-Multidimensional_array-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Primitive and reference types/Creating a primitive/Simple_Tic-Tac-Toe_(Java).Topics-Primitive_and_reference_types-Creating_a_primitive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Primitive and reference types/Creating a primitive/Simple_Tic-Tac-Toe_(Java).Topics-Primitive_and_reference_types-Creating_a_primitive.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Primitive and reference types/Creating a primitive/Simple_Tic-Tac-Toe_(Java).Topics-Primitive_and_reference_types-Creating_a_primitive.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Primitive and reference types/Creating a reference type/Simple_Tic-Tac-Toe_(Java).Topics-Primitive_and_reference_types-Creating_a_reference_type.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Primitive and reference types/Creating a reference type/Simple_Tic-Tac-Toe_(Java).Topics-Primitive_and_reference_types-Creating_a_reference_type.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Primitive and reference types/Creating a reference type/Simple_Tic-Tac-Toe_(Java).Topics-Primitive_and_reference_types-Creating_a_reference_type.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Primitive and reference types/Null syntax/Simple_Tic-Tac-Toe_(Java).Topics-Primitive_and_reference_types-Null_syntax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Primitive and reference types/Null syntax/Simple_Tic-Tac-Toe_(Java).Topics-Primitive_and_reference_types-Null_syntax.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Primitive and reference types/Null syntax/Simple_Tic-Tac-Toe_(Java).Topics-Primitive_and_reference_types-Null_syntax.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Primitive and reference types/Theory/Simple_Tic-Tac-Toe_(Java).Topics-Primitive_and_reference_types-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Primitive and reference types/Theory/Simple_Tic-Tac-Toe_(Java).Topics-Primitive_and_reference_types-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Primitive and reference types/Theory/Simple_Tic-Tac-Toe_(Java).Topics-Primitive_and_reference_types-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Switch statement/A simple calculator/Simple_Tic-Tac-Toe_(Java).Topics-Switch_statement-A_simple_calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Switch statement/A simple calculator/Simple_Tic-Tac-Toe_(Java).Topics-Switch_statement-A_simple_calculator.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Switch statement/A simple calculator/Simple_Tic-Tac-Toe_(Java).Topics-Switch_statement-A_simple_calculator.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Switch statement/Harry Potter/Simple_Tic-Tac-Toe_(Java).Topics-Switch_statement-Harry_Potter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Switch statement/Harry Potter/Simple_Tic-Tac-Toe_(Java).Topics-Switch_statement-Harry_Potter.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Switch statement/Harry Potter/Simple_Tic-Tac-Toe_(Java).Topics-Switch_statement-Harry_Potter.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Switch statement/Shape/Simple_Tic-Tac-Toe_(Java).Topics-Switch_statement-Shape.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Switch statement/Shape/Simple_Tic-Tac-Toe_(Java).Topics-Switch_statement-Shape.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Switch statement/Shape/Simple_Tic-Tac-Toe_(Java).Topics-Switch_statement-Shape.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Switch statement/Theory/Simple_Tic-Tac-Toe_(Java).Topics-Switch_statement-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Switch statement/Theory/Simple_Tic-Tac-Toe_(Java).Topics-Switch_statement-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/Switch statement/Theory/Simple_Tic-Tac-Toe_(Java).Topics-Switch_statement-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/The while and do-while loops/Determine the result/Simple_Tic-Tac-Toe_(Java).Topics-The_while_and_do-while_loops-Determine_the_result.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/The while and do-while loops/Determine the result/Simple_Tic-Tac-Toe_(Java).Topics-The_while_and_do-while_loops-Determine_the_result.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/The while and do-while loops/Determine the result/Simple_Tic-Tac-Toe_(Java).Topics-The_while_and_do-while_loops-Determine_the_result.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/The while and do-while loops/Statements/Simple_Tic-Tac-Toe_(Java).Topics-The_while_and_do-while_loops-Statements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/The while and do-while loops/Statements/Simple_Tic-Tac-Toe_(Java).Topics-The_while_and_do-while_loops-Statements.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/The while and do-while loops/Statements/Simple_Tic-Tac-Toe_(Java).Topics-The_while_and_do-while_loops-Statements.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/The while and do-while loops/The smallest value/Simple_Tic-Tac-Toe_(Java).Topics-The_while_and_do-while_loops-The_smallest_value.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/The while and do-while loops/The smallest value/Simple_Tic-Tac-Toe_(Java).Topics-The_while_and_do-while_loops-The_smallest_value.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/The while and do-while loops/The smallest value/Simple_Tic-Tac-Toe_(Java).Topics-The_while_and_do-while_loops-The_smallest_value.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/The while and do-while loops/Theory/Simple_Tic-Tac-Toe_(Java).Topics-The_while_and_do-while_loops-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/The while and do-while loops/Theory/Simple_Tic-Tac-Toe_(Java).Topics-The_while_and_do-while_loops-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/Topics/The while and do-while loops/Theory/Simple_Tic-Tac-Toe_(Java).Topics-The_while_and_do-while_loops-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/util/Simple_Tic-Tac-Toe_(Java).util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/util/Simple_Tic-Tac-Toe_(Java).util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/modules/util/Simple_Tic-Tac-Toe_(Java).util.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/Fight/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/Fight/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/First move/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/First move/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/The user is the gamemaster/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/The user is the gamemaster/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/Welcome to the battlefield/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/Welcome to the battlefield/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/What's up on the field/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/What's up on the field/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/task/build/classes/java/test/Clue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/task/build/classes/java/test/FieldState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/task/build/classes/java/test/TicTacToeField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/task/build/tmp/test/jar_extract_11018419602644486449_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/task/build/tmp/test/jar_extract_1159228771895051969_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/task/build/tmp/test/jar_extract_12957589537754506927_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/task/build/tmp/test/jar_extract_13099102188145451238_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/task/build/tmp/test/jar_extract_1448852171755057803_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/task/build/tmp/test/jar_extract_1503523462280461102_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/task/build/tmp/test/jar_extract_15042375123742864756_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/task/build/tmp/test/jar_extract_16550160545289026586_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/task/build/tmp/test/jar_extract_17715324875735588678_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/task/build/tmp/test/jar_extract_18300395709827888263_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/task/build/tmp/test/jar_extract_2959302590746465300_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/task/build/tmp/test/jar_extract_5897642685825028326_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/task/build/tmp/test/jar_extract_5999773332437090262_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/task/build/tmp/test/jar_extract_7034765349692280509_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/task/build/tmp/test/jar_extract_9021667809500987220_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Simple Tic-Tac-Toe (Java)/task/build/tmp/test/jar_extract_9864942284482429055_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Branching statements/Statements/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Branching statements/Statements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Branching statements/Statements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Branching statements/Statements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Branching statements/The integer barrier/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Branching statements/The integer barrier/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Branching statements/The integer barrier/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Branching statements/The integer barrier/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Branching statements/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Branching statements/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Branching statements/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Branching statements/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Branching statements/What is the output/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Branching statements/What is the output/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Branching statements/What is the output/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Branching statements/What is the output/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Branching statements/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Calling a method/Call me awesome/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Calling a method/Call me awesome/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Calling a method/Call me awesome/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Calling a method/Call me awesome/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Calling a method/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Calling a method/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Calling a method/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Calling a method/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Calling a method/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Errors in programs/Fix the program/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Errors in programs/Fix the program/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Errors in programs/Fix the program/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Errors in programs/Fix the program/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Errors in programs/Select the statement/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Errors in programs/Select the statement/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Errors in programs/Select the statement/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Errors in programs/Select the statement/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Errors in programs/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Errors in programs/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Errors in programs/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Errors in programs/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Errors in programs/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Iterating over arrays/Select loops/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Iterating over arrays/Select loops/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Iterating over arrays/Select loops/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Iterating over arrays/Select loops/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Iterating over arrays/Select one loop/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Iterating over arrays/Select one loop/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Iterating over arrays/Select one loop/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Iterating over arrays/Select one loop/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Iterating over arrays/Sum array elements greater than a value/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Iterating over arrays/Sum array elements greater than a value/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Iterating over arrays/Sum array elements greater than a value/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Iterating over arrays/Sum array elements greater than a value/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Iterating over arrays/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Iterating over arrays/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Iterating over arrays/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Iterating over arrays/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Iterating over arrays/Two numbers never occur next to each other/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Iterating over arrays/Two numbers never occur next to each other/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Iterating over arrays/Two numbers never occur next to each other/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Iterating over arrays/Two numbers never occur next to each other/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Iterating over arrays/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Multidimensional array/Multidimensional array features/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Multidimensional array/Multidimensional array features/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Multidimensional array/Multidimensional array features/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Multidimensional array/Multidimensional array features/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Multidimensional array/Practical applications/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Multidimensional array/Practical applications/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Multidimensional array/Practical applications/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Multidimensional array/Practical applications/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Multidimensional array/Symmetric matrix/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Multidimensional array/Symmetric matrix/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Multidimensional array/Symmetric matrix/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Multidimensional array/Symmetric matrix/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Multidimensional array/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Multidimensional array/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Multidimensional array/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Multidimensional array/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Multidimensional array/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Primitive and reference types/Creating a primitive/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Primitive and reference types/Creating a primitive/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Primitive and reference types/Creating a primitive/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Primitive and reference types/Creating a primitive/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Primitive and reference types/Creating a reference type/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Primitive and reference types/Creating a reference type/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Primitive and reference types/Creating a reference type/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Primitive and reference types/Creating a reference type/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Primitive and reference types/Null syntax/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Primitive and reference types/Null syntax/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Primitive and reference types/Null syntax/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Primitive and reference types/Null syntax/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Primitive and reference types/The keyword/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Primitive and reference types/The keyword/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Primitive and reference types/The keyword/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Primitive and reference types/The keyword/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Primitive and reference types/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Primitive and reference types/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Primitive and reference types/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Primitive and reference types/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Primitive and reference types/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Switch statement/A simple calculator/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Switch statement/A simple calculator/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Switch statement/A simple calculator/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Switch statement/A simple calculator/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Switch statement/Harry Potter/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Switch statement/Harry Potter/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Switch statement/Harry Potter/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Switch statement/Harry Potter/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Switch statement/Shape/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Switch statement/Shape/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Switch statement/Shape/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Switch statement/Shape/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Switch statement/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Switch statement/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Switch statement/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Switch statement/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/Switch statement/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/The while and do-while loops/Determine the result/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/The while and do-while loops/Determine the result/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/The while and do-while loops/Determine the result/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/The while and do-while loops/Determine the result/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/The while and do-while loops/Statements/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/The while and do-while loops/Statements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/The while and do-while loops/Statements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/The while and do-while loops/Statements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/The while and do-while loops/The smallest value/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/The while and do-while loops/The smallest value/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/The while and do-while loops/The smallest value/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/The while and do-while loops/The smallest value/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/The while and do-while loops/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/The while and do-while loops/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/The while and do-while loops/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/The while and do-while loops/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/The while and do-while loops/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/Topics/section-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe (Java)/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Scanning the input/Hiring a chef/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Scanning the input/Hiring a chef/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Scanning the input/Reading a number/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Scanning the input/Reading a number/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Scanning the input/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Topics/Scanning the input/Theory/task.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PCshEvEx9JGQ3XR6Rc58TH2EYb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.Demo" />
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4886e5d-d6da-4338-8e7c-244596d9dd1a" name="Changes" comment="" />
+      <created>1682972517304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682972517304</updated>
+      <workItem from="1682972518808" duration="1769000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
